@@ -1,4 +1,4 @@
-![datasciencepred](https://user-images.githubusercontent.com/65754601/191826838-d26b366d-6b78-4c6a-ad1c-ece2a0e601fe.png)
+
 # data-science-salaries-kaggle
 
 Using the dataset Data Science Fields Categorization,
@@ -16,3 +16,7 @@ The model performed with a R-Squared Error of 47.7%.
 There is also an app made with Shiny available
 to calculate those predictions using the file app.R 
 which you can test to use the model for yourself.
+
+Here is a picture on how the app looks like.
+
+![datasciencepred](https://user-images.githubusercontent.com/65754601/191826838-d26b366d-6b78-4c6a-ad1c-ece2a0e601fe.png)
