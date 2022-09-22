@@ -1,0 +1,13 @@
+name: data-science-sallary
+title: data-science-sallary
+username:
+account: rafaelqpfaria
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7083740
+bundleId: 6325759
+url: https://rafaelqpfaria.shinyapps.io/data-science-sallary/
+when: 1663803772.06485
+lastSyncTime: 1663803772.06486
+asMultiple: FALSE
+asStatic: FALSE
